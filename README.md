@@ -3,7 +3,7 @@ Path-based routing is one of the unique feature offered by ALB. Path-based routi
 
 DIAGRAM
 =========
-
+![alt text](https://github.com/rony-james/Application-load-balancer-path-based-routing-demo/blob/main/DIAGRAM.jpg?raw=true)
 
 
 # Configure Path-based Routing on Application Load balancer
